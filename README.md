@@ -1,2 +1,7 @@
 # hello-world
-Just anothe repositry
+Just another repositry
+
+These are changes for my first pull request
+Cheers,
+Jerome
+:)
